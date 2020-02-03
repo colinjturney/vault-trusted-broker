@@ -1,0 +1,5 @@
+jenkins-master-approle-role-id
+jenkins-master-approle-secret-id
+jenkins-master.pub
+.vagrant
+*id_rsa*
